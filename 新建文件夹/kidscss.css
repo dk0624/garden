@@ -1,0 +1,76 @@
+body {
+	font-size: 12px;
+	color: #333333;
+}
+
+.hd{ line-height:18px; padding:4px 10px;}
+
+.input1 { border:0px; margin-top:6px;}
+.input2 { border:0px; margin-left:6px; margin-top:10px;}
+.load { font-size:12px; color:#fff; margin-left:10px;}
+.load_button { margin-left:10px;}
+
+a.menu01:link,.menu01:visited { font-size:12px; color:#4f015e; text-align:right; padding-right:10px; text-decoration:none;}
+a.menu01:hover { font-size:12px; color:red; text-decoration:underline;}
+
+a.menu02:link,.menu02:visited { font-size:12px; color:#4f015e; text-align:center; text-decoration:none;}
+a.menu02:hover { font-size:12px; color:red; text-decoration:underline;}
+
+.text01 {border:1px solid #ccc; border-bottom:none; border-top:none; padding:6px 25px;}
+.text02 {border:1px solid #eacb5c; border-bottom:none; border-top:none;}
+.text03 {border:1px solid #b186bb; border-left:none; border-right:none; background-color:#fbedfe;}
+.text04 { padding:5px 15px; text-align:left; line-height:20px; text-indent:2em;}
+
+a.hei12:link,.hei12:visited { font-size:12px; color:#333; text-align:center; text-decoration:none; line-height:20px;}
+a.hei12:hover { font-size:12px; color:red; text-decoration:underline; line-height:20px;}
+
+a.hei14:link,.hei14:visited { font-size:14px; color:#000; text-align:left; text-decoration:none; line-height:25px;}
+a.hei14:hover { font-size:14px; color:red; text-decoration:underline; line-height:25px;}
+a.list14:link,.list14:visited { font-size:14px; color:#4e1659; text-align:left; text-decoration:none; line-height:25px;}
+a.list14:hover { font-size:14px; color:red; text-decoration:underline; line-height:25px;}
+
+.pic1 { border:2px solid #fff; margin-left:8px;}
+.pic2 { border:2px solid #fff; margin-left:20px;}
+.yqlj { padding:0px 15px;}
+.yqlj a:link, .yqlj a:visited { font-size:12px; color:#5c066c; text-decoration:none; }
+.yqlj a:hover { font-size:12px; color:#4e005c; text-decoration:underline;}
+
+.wz { font-size:12px; color:#660066; font-weight:bold; text-align:left; padding-top:4px;}
+.wz a:link, .wz a:visited { font-size:12px; color:#660066; font-weight:bold; text-decoration:none; }
+.wz a:hover { text-decoration:underline; font-size:12px; color:#333;}
+
+.left_menu { padding-top:0px; text-align:center;}
+.left_menu a:link,  .left_menu a:visited { color:#773883; font-size:14px; font-weight:bold; text-decoration:none;}
+.left_menu a:hover { color:red; font-size:14px; font-weight:bold; text-decoration:none;}
+
+.banner_title {padding-top:2px; padding-left:50px; font-size:14px; color:#333333; font-weight:bold;}
+.content_title { padding:20px; font-size:20px;  color:#4e1659; font-family:ºÚÌå; text-align:center;}
+.content_xx { padding:10px 30px; font-size:12px;  color:#333;}
+.content_xx span { padding:10px 2px; font-size:12px;  color:red;}
+.content_text { padding:10px 25px; font-size:12px; line-height:22px; color:#333;}
+
+a.red12:link,.red12:visited { padding:8px 30px; font-size:12px; color:red; text-decoration:none;}
+a.red12:hover { padding:8px 30px; font-size:12px; color:red; text-decoration:underline;}
+
+.list {padding:20px 50px;}
+.pages{ font-size:12px; color:#333; text-align:center; font-weight:bold;}
+.pages a:link, .pages a:visited { color:#000; font-size:12px; font-weight:bold;}
+.pages a:hover { color:red; font-size:12px; font-weight:bold; text-decoration:underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
